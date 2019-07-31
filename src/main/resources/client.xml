@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="gb2312"?>
+<clients>
+  <client id="1">
+     <ip>127.0.0.1</ip>
+     <routeModule>0x10000030</routeModule>
+     <serviceModule>0x10000029</serviceModule>
+     <username>robot</username>
+     <password>robot</password>
+  </client>
+  <client id="2">
+     <ip>127.0.0.1</ip>
+     <routeModule>0x10000030</routeModule>
+     <serviceModule>0x10000028</serviceModule>
+     <username>robot</username>
+     <password>robot</password>
+  </client>
+ </clients>
